@@ -10,6 +10,10 @@ Prof. Dr.-Ing. Manfred Enning, Prof. Dr. Raphael Pfaff, Prof. Dr.-Ing. Bernd D. 
 ## Kurzbeschreibung
 
 ### Wissenschaftliche/künstlerische Bedeutung
+*Ziel des FuE-Projektes ist die Entwicklung von Sensoren und Elektronik-systemen zur Realisierung eines „intelligenten“, mittels Industrie 4.0-Technologien vernetzten Güterwagens.
+Der Lösungsweg sieht die Entwicklung von elektronischen und mikroelektronischen Systemen zur Online-Erfassung relevanter Güterwagen- und Zugverbund-Daten und eines „intelligenten“, mit selbstlernenden Algorithmen ausgestatteten Condition-Monitoring-Systems zur Verschleiß-Analyse vor. Durch Analyse und Kommunikation dieser Informationen mit übergeordneten Logistik-/Leitebenen wird erstmals eine durchgängige Logistik und die von Kunden geforderte Transparenz der Lieferkette bzw. „Just-In-Time“-Lieferung im Einzelwagen-Güterverkehr, sowie eine vorausschauende Planung von Wartungszyklen und Rentabilität für den Güterwagenbetreiber ermöglicht. 
+Als weiterer Lösungsansatz werden Aktoren entwickelt und in den „Güterwagen4.0“ integriert, mit denen die beim Zusammenstellen bzw. Trennen von Güterwagen erforderlichen aufwändigen und oft sicherheitsrelevanten manuellen Tätigkeiten künftig vollautomatisiert durchgeführt und sensorisch online überwacht werden können.*
+***Dieser Textabschnitt ist quasi 1:1 aus dem Antrag übernommen. Kann den jemand umformulieren?***
 
 ### Gesellschaftliche Relevanz
 
