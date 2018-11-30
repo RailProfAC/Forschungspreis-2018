@@ -10,14 +10,18 @@ Prof. Dr.-Ing. Manfred Enning, Prof. Dr. Raphael Pfaff, Prof. Dr.-Ing. Bernd D. 
 ## Kurzbeschreibung
 
 ### Wissenschaftliche/künstlerische Bedeutung
+
+Der Güterwagen4.0 (GW40) erweitert das Rollmaterial des Schienengüterverkehrs (SGV) um Funktionalität, die die Behandlung von Einzelwagenverkehren effizient, sicher und wirtschaftlich macht. Die durch den GW40 hinzugewonnenene Attraktivität kann neue Branchen für den SGV gewinnen und so die Verkehrswende hin zu ökologisch sinnvollen Verkehrsträgern beschleunigen oder ermöglichen.
+
 Ziel des FuE-Projektes ist die Entwicklung von Sensoren und Elektroniksystemen zur Realisierung eines „intelligenten“, mittels Industrie 4.0-Technologien vernetzten Güterwagens.
-Dies beinhaltet die Entwicklung von elektronischen und mikroelektronischen Systemen zur Online-Erfassung relevanter Güterwagen- und Zugverbund-Daten und eines „intelligenten“, mit selbstlernenden Algorithmen ausgestatteten Condition-Monitoring-Systems zur Verschleiß-Analyse vor. Durch Analyse und Kommunikation dieser Informationen mit übergeordneten Logistik-/Leitebenen wird erstmals eine durchgängige Logistik und die von Kunden geforderte Transparenz der Lieferkette bzw. „Just-In-Time“-Lieferung im Einzelwagen-Güterverkehr, sowie eine vorausschauende Planung von Wartungszyklen und Rentabilität für den Güterwagenbetreiber ermöglicht. 
+Dies beinhaltet die Entwicklung von elektronischen und mikroelektronischen Systemen zur Online-Erfassung relevanter Güterwagen- und Zugverbund-Daten und eines „intelligenten“, mit selbstlernenden Algorithmen ausgestatteten Condition-Monitoring-Systems zur Verschleiß-Analyse. Durch Analyse und Kommunikation dieser Informationen mit übergeordneten Logistik-/Leitebenen wird erstmals eine durchgängige Logistik und die von Kunden geforderte Transparenz der Lieferkette bzw. „Just-In-Time“-Lieferung im Einzelwagen-Güterverkehr, sowie eine vorausschauende Planung von Wartungszyklen und Rentabilität für den Güterwagenbetreiber ermöglicht.
+
 Als weiterer, über die Wirtschaftlichkeit entscheidender, Lösungsansatz werden Aktoren entwickelt und in den „Güterwagen4.0“ integriert, mit denen die beim Zusammenstellen bzw. Trennen von Güterwagen erforderlichen aufwändigen und oft sicherheitsrelevanten manuellen Tätigkeiten künftig vollautomatisiert durchgeführt und sensorisch online überwacht werden können.
 
-Damit erweitert der Güterwagen4.0 (GW40) das Rollmaterial des Schienengüterverkehrs (SGV) um Funktionalität, die die Behandlung von Einzelwagenverkehren effizient, sicher und wirtschaftlich macht. Die durch den GW40 hinzugewonnenene Attraktivität kann neue Branche für den SGV gewinnen und so die Verkehrswende hin zu ökologisch sinnvollen Verkehrsträgern beschleunigen oder ermöglichen.
-
+Der GW40 unterscheidet sich von anderen Ansätzen im SGV durch konsequente Einbindung der Versender und der Eisenbahnverkehrsunternehmen und die Entwicklung von Lösungen, die durch diese betriebswirtschaftlich sinnvoll, das heißt ohne Subventionen, eingeführt werden können.
 
 ### Gesellschaftliche Relevanz
+
 Die Bundesregierung verfolgt das Ziel, den *Endergieverbrauch* bis zum Jahr 2020 um 10% gegenüber dem Jahr 1995 bzw. bis zum Jahr 2050 um 40% gegenüber dem Jahr 1995 zu senken. Der derzeitige Entwicklungstrend ist zu diesem Ziel gegenläufig, da mit Ausnahme des Schienenverkehrs alle anderen Verkehrsträger seit 2009 einen wachsenden absoluten Endenergiebedarf aufweisen [1].
 
 ![Endenergieverbrauch des Verkehrs](abb2.png)
@@ -39,16 +43,17 @@ Das Konzept beinhaltet
 - arbeitswissenschaftliche und betriebliche Bedürfnisse sowie
 - ein Migrationsszenario.
 
+![Railmap zur Entwicklung des Güterwagen 4.0](abb5.png)
+
 In einem geförderten Projekt werden bis Mitte 2021 in Zusammenarbeit mit DB Systemtechnik, Wascosa, Lenord und Bauer sowie Reuschling Demonstratoren auf Grundlage von Güterwagen entwickelt, aufgebaut und erprobt.
 
 ### Profilbildung der Fachhochschule Aachen
 
-Die Forschungsansätze sind eine konsequente Fortführung von Arbeiten eines der Autoren unter der Überschrift "FlexCargoRail". Schon damals bestand ein hohes Interesse der verladenden Wirtschaft und der Eisenbahnunternehmen, weshalb das Forschungskonsortium unter Leitung von Herrn Enning 2009 mit dem IBS Forschungspreis ausgezeichnet wurde. Diese gute Startposition wurde als Teamleistung der Forschungsgruppe konsequent ausgebaut. Inzwischen ist die Begriffskombination "Digitalsierung / Schienengüterverkehr" untrennbar mit der Fachhochschule Aachen assoziiert und aus "Güterwagen 4.0" wurde eine Marke entwickelt, an der in der Szene heute niemand mehr vorbei kommt. Mitglieder der Forschergruppe sind immer wieder als Experten bei nationalen und internationalen Veranstaltung. Ganz aktuell ist die Teilnahme als einziges Forschungsthema bei der "1. BME/VDV Gleisanschlusskonferenz" im Oktober 2018 in Berlin und Einladungen zu regionalen Wirtschaftsinitiativen, die sich um eine Wiederbelebung des kleinteiligen Verkehrs auf der Schiene bemühen, wie z.B. zur Regionalkonferenz Frankfurt/Main im März 2019.
+Die Forschungsansätze sind eine konsequente Fortführung von Arbeiten eines der Autoren unter der Überschrift "FlexCargoRail". Schon damals bestand ein hohes Interesse der verladenden Wirtschaft und der Eisenbahnunternehmen, weshalb das Forschungskonsortium unter Leitung von Herrn Enning 2009 mit dem IBS Forschungspreis ausgezeichnet wurde. Diese gute Startposition wurde als Teamleistung der Forschungsgruppe konsequent ausgebaut. Inzwischen ist die Begriffskombination "Digitalisierung / Schienengüterverkehr" untrennbar mit der Fachhochschule Aachen assoziiert und aus "Güterwagen 4.0" wurde eine Marke entwickelt, an der in der Szene heute niemand mehr vorbei kommt. Mitglieder der Forschergruppe sind immer wieder als Experten bei nationalen und internationalen Veranstaltungen präsent. Ganz aktuell ist die Teilnahme als einziges Forschungsthema bei der "1. BME/VDV Gleisanschlusskonferenz" im Oktober 2018 in Berlin und Einladungen zu regionalen Wirtschaftsinitiativen, die sich um eine Wiederbelebung des kleinteiligen Verkehrs auf der Schiene bemühen, wie z.B. zur Regionalkonferenz Frankfurt/Main im März 2019.
 
 Bemerkenswert ist, dass diese Präsenz Ergebnis eines überzeugenden, in sich konsistenten Konzepts für einen Schienengüterverkehr der Zukunft ist, welches in einer intensiven und erfolgreichen Publikationstätigkeit verbreitet und öffentlich diskutiert wurde. Bisher ist noch kein realer Güterwagen 4.0 gezeigt worden. Das erste öffentlich geförderte Projekt mit dem Ziel der Konzept- und Komponentenentwicklung sowie der Realisierung von Demonstratoren ist im Rahmen des Programms KMU Innovativ des BMBF gerade angelaufen (1.6 Mio €, ca. 300 T€ für FH Aachen). Eine Projektskizze in MobilitätLogistik.NRW ist Erfolg versprechend platziert und ein sehr großes Projekt mit einem Volumen von über 1 Mio € für die FH Aachen ist in der Vorbereitung zur Antragstellung im nächsten Sommer.
 
 Die Verkehrswende gehört zweifellos zu den Themen, die über den Fortbestand unseres "Way of Life" entscheiden. Mit dem Konzept Güterwagen 4.0 haben wir einen der Hebel in der Hand, mit dem man eine großer Zahl heute verloren gegangener Verkehre für die Schiene wieder gewinnen kann. Mit der Auszeichnung in dieser frühen Phase der Projekte würde ein wichtiges Signal gesetzt
-
 
 #### Ausgewählte Veröffentlichungen
 
